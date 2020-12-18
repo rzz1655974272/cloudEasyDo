@@ -1,4 +1,4 @@
-package com.rzz.demo.ldyg;
+package com.rzz.demo.ldygg;
 
 public class hhh {
     public void hello(){
